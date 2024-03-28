@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fYbPuYrF/ZzLmTh86D33eCnMx0CJEP++r7EZEkNSWDxNMC2DyQ86N7d+n9Ma2jLTPPqI6OnBQIXPA6kFs7S8Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-learning\\Module-3\\HelloWorldLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikita_Kalashnikau1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mikita_Kalashnikau1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

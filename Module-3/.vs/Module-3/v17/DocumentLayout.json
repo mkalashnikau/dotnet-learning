@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-learning\\Module-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9ABD21-78A3-49A5-BA95-7513A138AC59}|HelloWorldLibrary.csproj|c:\\users\\mikita_kalashnikau1\\home\\learning\\csharp\\dotnet-learning\\module-3\\helloworldhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9ABD21-78A3-49A5-BA95-7513A138AC59}|HelloWorldLibrary.csproj|solutionrelative:helloworldhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\HelloWorldWPFApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T12:46:33.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAODMzMzPbvxEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:46:32.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:31:27.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:19:22.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:12:28.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWinFormsApp\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:45:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-learning\\Module-3\\HelloWorldHelper.cs",
+              "RelativeDocumentMoniker": "HelloWorldHelper.cs",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-learning\\Module-3\\HelloWorldHelper.cs",
+              "RelativeToolTip": "HelloWorldHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:39:54.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorldWPFApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\HelloWorldWPFApp.csproj",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\HelloWorldWPFApp.csproj",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\HelloWorldWPFApp.csproj",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldWPFApp\\HelloWorldWPFApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T12:49:20.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HelloWorldConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T08:43:05.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikita_Kalashnikau1\\Home\\learning\\csharp\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\dotnet-epam-learn\\how-to-work-with-vs\\HelloWorldConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:41:16.587Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
