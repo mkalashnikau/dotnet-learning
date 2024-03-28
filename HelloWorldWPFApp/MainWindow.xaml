@@ -1,0 +1,8 @@
+﻿<Window x:Class="HelloWorldWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Please, enter username and click 'Enter' button" Height="200" Width="500">
+    <Grid>
+        <TextBox Name="textBoxUsername" KeyDown="textBoxUsername_KeyDown"/>
+    </Grid>
+</Window>
