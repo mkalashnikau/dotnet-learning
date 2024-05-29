@@ -4,7 +4,13 @@
     {
         public static List<string> Generate(int start, int end)
         {
-            return new List<string>() { start.ToString() };
+            var output = new List<string>();
+            for (int i = start; i <= end; i++)
+            {
+                var s = i % 3 == 0 ? "Fizz" : i.ToString();
+                output.Add(s);
+            }
+            return output;
         }
     }
 }
