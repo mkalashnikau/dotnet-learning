@@ -17,5 +17,13 @@ namespace TheFizzBuzzKata.Tests
 
             Assert.Equal("Fizz", result[0]);
         }
+
+        [Fact]
+        public void FizzBuzz_ReturnsBuzz_WhenNumberIsDivisibleByFive()
+        {
+            var result = FizzBuzz.Generate(5, 5);
+
+            Assert.Equal("Buzz", result[0]);
+        }
     }
 }
