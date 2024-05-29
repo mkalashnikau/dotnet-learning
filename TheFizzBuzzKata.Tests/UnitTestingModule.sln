@@ -5,6 +5,16 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFizzBuzzKata.Tests", "TheFizzBuzzKata.Tests.csproj", "{BE03B095-8659-4795-94E6-F7710DFEF883}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFizzBuzzKata", "..\TheFizzBuzzKata\TheFizzBuzzKata.csproj", "{4E4509B5-0259-48AC-86D9-7265CCF9F903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSumKata.Tests", "..\StringSumKata.Tests\StringSumKata.Tests.csproj", "{DA238D3B-9579-48B5-8EA0-F5DA92D50E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSumKata", "..\StringSumKata\StringSumKata.csproj", "{45744297-A322-4D00-BDE4-C28EF1838821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWordWrapKata.Tests", "..\TheWordWrapKata.Tests\TheWordWrapKata.Tests.csproj", "{BF1124AB-B3D9-402F-AB36-C8B4132955C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWordWrapKata", "..\TheWordWrapKata\TheWordWrapKata.csproj", "{BFDF9452-0605-4DEB-942A-5EF255EFA8EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{BE03B095-8659-4795-94E6-F7710DFEF883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE03B095-8659-4795-94E6-F7710DFEF883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE03B095-8659-4795-94E6-F7710DFEF883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4509B5-0259-48AC-86D9-7265CCF9F903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4509B5-0259-48AC-86D9-7265CCF9F903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4509B5-0259-48AC-86D9-7265CCF9F903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4509B5-0259-48AC-86D9-7265CCF9F903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA238D3B-9579-48B5-8EA0-F5DA92D50E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA238D3B-9579-48B5-8EA0-F5DA92D50E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA238D3B-9579-48B5-8EA0-F5DA92D50E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA238D3B-9579-48B5-8EA0-F5DA92D50E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45744297-A322-4D00-BDE4-C28EF1838821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45744297-A322-4D00-BDE4-C28EF1838821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45744297-A322-4D00-BDE4-C28EF1838821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45744297-A322-4D00-BDE4-C28EF1838821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1124AB-B3D9-402F-AB36-C8B4132955C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1124AB-B3D9-402F-AB36-C8B4132955C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1124AB-B3D9-402F-AB36-C8B4132955C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1124AB-B3D9-402F-AB36-C8B4132955C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDF9452-0605-4DEB-942A-5EF255EFA8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDF9452-0605-4DEB-942A-5EF255EFA8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDF9452-0605-4DEB-942A-5EF255EFA8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDF9452-0605-4DEB-942A-5EF255EFA8EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
