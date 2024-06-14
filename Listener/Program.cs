@@ -1,4 +1,5 @@
-﻿using System.Net;
+﻿using System;
+using System.Net;
 using System.Text;
 
 class Program
@@ -24,7 +25,7 @@ class Program
             switch (path)
             {
                 case "MyName":
-                    var name = Encoding.UTF8.GetBytes("Your name"); //Change 'Your name' to your name
+                    var name = Encoding.UTF8.GetBytes("Mikita");
                     response.OutputStream.Write(name, 0, name.Length);
                     break;
                 case "Information":
@@ -41,6 +42,12 @@ class Program
                     break;
                 case "ServerError":
                     response.StatusCode = 500;
+                    break;
+                case "MyNameByHeader":
+                    response.AddHeader("X-MyName", "Mikita");
+                    break;
+                case "MyNameByCookies":
+                    response.Cookies.Add(new Cookie("MyName", "Mikita"));
                     break;
                 default:
                     response.StatusCode = 404;

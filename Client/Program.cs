@@ -1,5 +1,7 @@
-﻿using System.Net;
-using System.Text;
+﻿using System;
+using System.Linq;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 class Program
 {
@@ -14,6 +16,8 @@ class Program
         GetStatusCode("ClientError").GetAwaiter().GetResult();
         GetStatusCode("ServerError").GetAwaiter().GetResult();
 
+        GetNameByHeader().GetAwaiter().GetResult();
+        GetNameByCookies().GetAwaiter().GetResult();
     }
 
     static async Task CallMyName()
@@ -32,5 +36,30 @@ class Program
         HttpResponseMessage response = await client.GetAsync($"http://localhost:8888/{path}");
 
         Console.WriteLine($"{path}:{response.StatusCode}");
+    }
+
+    static async Task GetNameByHeader()
+    {
+        HttpResponseMessage response = await client.GetAsync("http://localhost:8888/MyNameByHeader");
+
+        if (response.IsSuccessStatusCode)
+        {
+            Console.WriteLine("Name from header: " + response.Headers.GetValues("X-MyName").FirstOrDefault());
+        }
+    }
+
+    static async Task GetNameByCookies()
+    {
+        HttpResponseMessage response = await client.GetAsync("http://localhost:8888/MyNameByCookies");
+
+        if (response.IsSuccessStatusCode)
+        {
+            var cookies = response.Headers.GetValues("Set-Cookie");
+            string myName = cookies.Select(c => c.Split('='))
+                                    .Where(c => c[0] == "MyName")
+                                    .Select(c => c[1])
+                                    .FirstOrDefault();
+            Console.WriteLine("Name from cookie: " + myName);
+        }
     }
 }
